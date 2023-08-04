@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color:snow;
+    word-spacing: 10px;
+    padding:10px;
+}
+ul li{
+    display:inline;
+    padding:10px;
+    color:chocolate
+}
+ul li a{
+    color:chocolate;
+    text-decoration: none;
+}
+#home img{
+    height: 300px;
+    width:300px;
+    border-radius: 50;
+}
+#portfolio{
+    background-color: darksalmon;
+}
+footer {
+    background-color: black;
+    height: 20px;
+}
+footer{
+    color: floralwhite;
+}
